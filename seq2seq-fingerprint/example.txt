@@ -1,0 +1,3 @@
+python decode.py sample zinc_gru_0.3_256/ ../data/zinc.vocab ../data/lung.drug.smi --sample_size 10000
+
+python decode.py fp zinc_gru_0.3_256/ ../data/zinc.vocab ../data/lung.drug.smi ../data/lung.drug.0.3_256.fp
